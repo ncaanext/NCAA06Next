@@ -1,4 +1,4 @@
-Oregon Unifroms by h4wduk3n
+Oregon Uniforms by h4wduk3n
 Discord: CheeseAndQuackers#1798
 Email: h4wduk3n@yahoo.com
 
