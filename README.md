@@ -6,6 +6,8 @@ Find our discord server here:
 
 https://discord.gg/kXe9cA4U2p
 
+For latest releases check the 'releases' link to the right >
+
 Team members:
 
 Ok and!? (fearless leader! Discord: Ok and!?#5944)
