@@ -6,3 +6,11 @@ Find our discord server here:
 
 https://discord.gg/kXe9cA4U2p
 
+Team members:
+Ok and!? (fearless leader! Discord: Ok and!?#5944)
+RobotDebris
+Jsk
+H4wduk3n (Discord: CheeseAndQuackers#1798)
+Antroid
+xflamexofxhopex
+Ottie30
