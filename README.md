@@ -12,7 +12,7 @@ Team members:
 
 Ok and!? (fearless leader! Discord: Ok and!?#5944)
 
-H4wduk3n (pac12, Oregon obsessed) Discord: CheeseAndQuackers#1798)
+H4wduk3n (pac12, Oregon obsessed) Discord: H4wduk3n#1798)
 
 Antroid (modding guru)
 
