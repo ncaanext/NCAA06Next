@@ -30,6 +30,10 @@ Take the attached zip and unzip its contents directly into your pcsx2 folder.
 
 Please do NOT extract it into a folder of the same name as the zip, just put the contents (a textures folder) directly into your pcsx2 folder!
 
+For rosters, you may get a .ps2 memory card file for pcsx2 courtesy of operation sports here:
+
+https://github.com/h4wduk3n/NCAA06Next/tree/main/rosters
+
 ### How to use alternates
 
 In your PCSX2 folder , navigate to 'textures/SLUS-21214/alternate_replacements'. In this folder you can find alternates by conference.  Take a 'home' or 'away' folder from one of these and replace the home and away in the actual 'replacements' folder.  You may want to keep the archive around or backup your replacements folder so you can switch back.
@@ -56,12 +60,13 @@ SEC - In Progress
 
 Other conferences - In Progress (details to come after SEC release)
 
+### Roster updates:
 
-Roster updates:
+For rosters, you may get a .ps2 memory card file for pcsx2 courtesy of operation sports here:
 
-Seek from operation sports for now
+https://github.com/h4wduk3n/NCAA06Next/tree/main/rosters
 
-Conference realignment:
+### Conference realignment:
 
 Check our discord for tools to do this for now
 
