@@ -34,6 +34,12 @@ Please do NOT extract it into a folder of the same name as the zip, just put the
 
 In your PCSX2 folder , navigate to 'textures/SLUS-21214/alternate_replacements'. In this folder you can find alternates by conference.  Take a 'home' or 'away' folder from one of these and replace the home and away in the actual 'replacements' folder.  You may want to keep the archive around or backup your replacements folder so you can switch back.
 
+### No interlacing/auto widescreen
+
+I mispoke when I refered to this patch as 'my patch' - it is a patch from https://forums.pcsx2.net/Thread-No-interlacing-codes?page=41 all credit to the author.
+
+To use this patch, place it in your pcsx2 'cheats' folder, make sure cheats are enabled in pcsx2.  In 'general' settings of pcsx2 set your display aspect to 16:9 and zoom to '0'. Finally, set deinterlacing to 'none' in GS settings.  This is what worked best for me.
+
 ### Current status:
 
 Uniform updates (Done doesn't mean we wont keep adding stuff :)):
