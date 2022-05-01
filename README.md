@@ -18,8 +18,6 @@ Here is a video tutorial of how to install the mod:
 
 [![NCAA 06 Mod Install Tutorial](https://img.youtube.com/vi/qgaUz_KLiJg/0.jpg)](https://www.youtube.com/watch?v=qgaUz_KLiJg)
 
-For latest releases check the 'releases' link to the right >
-
 ### Current status:
 
 Uniform updates (Done doesn't mean we wont keep adding stuff :)):
