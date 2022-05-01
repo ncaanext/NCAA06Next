@@ -1,5 +1,4 @@
 To contribute to this repository:
-    1. Install git lfs, the repo is already set up to track xcf and png files: https://git-lfs.github.com/
-    2. Create a fork of this repository
-    3. Make your changes
-    4. Submit a PR to this repository
+    1. Create a fork of this repository
+    2. Make your changes
+    3. Submit a PR to this repository
