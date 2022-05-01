@@ -3,6 +3,9 @@
 
 ![image](https://user-images.githubusercontent.com/19662073/161925797-f7581512-7d9f-4bab-ba4c-a78fae107592.png)
 
+### Latest Release
+https://github.com/h4wduk3n/NCAA06Next/releases/tag/v3.7
+
 ### Discord
 
 Find our discord server here:
