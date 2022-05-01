@@ -3,9 +3,13 @@
 
 ![image](https://user-images.githubusercontent.com/19662073/161925797-f7581512-7d9f-4bab-ba4c-a78fae107592.png)
 
+### Discord
+
 Find our discord server here:
 
 https://discord.gg/kXe9cA4U2p
+
+### Install Tutorial
 
 Here is a video tutorial of how to install the mod:
 
@@ -13,7 +17,28 @@ Here is a video tutorial of how to install the mod:
 
 For latest releases check the 'releases' link to the right >
 
-Team members:
+### Current status:
+
+Uniform updates (Done doesn't mean we wont keep adding stuff :)):
+
+BIG10 - Done
+
+PAC12 - Done
+
+SEC - In Progress
+
+Other conferences - In Progress (details to come after SEC release)
+
+
+Roster updates:
+
+Seek from operation sports for now
+
+Conference realignment:
+
+Check our discord for tools to do this for now
+
+### Team members:
 
 Ok and!?#5944
 
