@@ -41,6 +41,7 @@ In your PCSX2 folder , navigate to 'textures/SLUS-21214/alternate_replacements'.
 ### No interlacing/auto widescreen
 
 I mispoke when I refered to this patch as 'my patch' - it is a patch from https://forums.pcsx2.net/Thread-No-interlacing-codes?page=41 all credit to the author.
+I was remembering a patch I ported for another madden game - but now the forum link has a bunch of patches including this one.
 
 I copied it here:
 
