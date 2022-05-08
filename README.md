@@ -35,7 +35,7 @@ Please do NOT extract it into a folder of the same name as the zip, just put the
 
 For rosters, you may get a .ps2 memory card file for pcsx2 courtesy of operation sports here:
 
-https://github.com/h4wduk3n/NCAA06Next/tree/main/rosters
+https://github.com/h4wduk3n/NCAA06Next/tree/main/memcards
 
 ### How to use alternates
 
@@ -48,7 +48,7 @@ I was remembering a patch I ported for another madden game - but now the forum l
 
 I copied it here:
 
-https://github.com/h4wduk3n/NCAA06Next/tree/main/no_interlacing_auto_widescreen_patch
+https://github.com/h4wduk3n/NCAA06Next/tree/main/cheats
 
 To use this patch, place it in your pcsx2 'cheats' folder, make sure cheats are enabled in pcsx2.  In 'general' settings of pcsx2 set your display aspect to 16:9 and zoom to '0'. Finally, set deinterlacing to 'none' in GS settings.  This is what worked best for me.
 
