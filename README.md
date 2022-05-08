@@ -15,6 +15,8 @@ https://discord.gg/kXe9cA4U2p
 
 ### Install Tutorial
 
+As of v4, download the source code zip from the release page and extract its contents into your pcsx2 folder.
+
 Here is a video tutorial of how to install the mod:
 
 [![NCAA 06 Mod Install Tutorial](https://img.youtube.com/vi/qgaUz_KLiJg/0.jpg)](https://www.youtube.com/watch?v=qgaUz_KLiJg)
