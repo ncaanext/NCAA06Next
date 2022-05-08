@@ -5,7 +5,7 @@
 
 ### Latest Release
 
-https://github.com/h4wduk3n/NCAA06Next/releases/tag/v3.9
+https://github.com/h4wduk3n/NCAA06Next/releases/tag/v4
 
 ### Discord
 
@@ -60,7 +60,7 @@ BIG10 - Done
 
 PAC12 - Done
 
-SEC - In Progress
+SEC - Done
 
 Other conferences - In Progress (details to come after SEC release)
 
