@@ -96,7 +96,9 @@ FBS Rosters were created using <a href=https://github.com/antdroidx/NCAA-Footbal
 
 ### Conference Realignment Mod:
 
-There is possibility of making a base realigned dynasty in the future with full schedule generation built-in but for now this is a manual process.
+This mod now includes a base starting Dynasty Save to use as a 2021 starter file using a completely realigned conferences, updated rosters, coaches, strategies, start year and more! It also has the ability to auto-generate new schedules each year without manual manipulation! Please see the Dynasty Mod folder more details.
+
+If you want to create your own version, please see the following section for more info.
 
 For basic introduction to this please check out these links:
 1. YouTube Tutorial Part I : https://www.youtube.com/watch?v=i2MRfYWJh28
@@ -105,7 +107,9 @@ For basic introduction to this please check out these links:
 4. Coach Editor : https://github.com/antdroidx/NCAA-Football-PS2-Coach-Editor
 5. Modding Guides & FAQ : https://forums.operationsports.com/forums/ncaa-football-rosters/873637-guide-modding-editing-porting-psp-ps2-ncaa.html
 
-For more support, please ask on Discord!
+
+
+### For more support, please ask on Discord!
 
 ### Team members:
 
