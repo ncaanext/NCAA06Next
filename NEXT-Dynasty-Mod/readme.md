@@ -12,6 +12,8 @@ This is a complete dynasty modification to the Dynasty mode of NCAA Football 06.
 
 -Updated Magazine Covers and initial Heisman Candidates
 
+-Updated Rankings and Prestige
+
 -Start year of 2021
 
 
