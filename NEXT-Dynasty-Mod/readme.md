@@ -14,7 +14,9 @@ This is a complete dynasty modification to the Dynasty mode of NCAA Football 06.
 
 -Start year of 2021
 
-<img src="NCAA-NEXT-Realignment.png" width=1000>
+
+Conference Realignment Preview : Click to View Full-Size Image
+<img src="NCAA-NEXT-Realignment.png">
 
 
 
