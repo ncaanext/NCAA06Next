@@ -1,0 +1,344 @@
+DEFINITIONS,0
+PLAY,Player DB
+PF10,Player First
+PL10,Player Last
+PF01,Player First
+PL01,Player Last
+PL11,Player Last
+PF02,Player Last
+PL02,Player Last
+PL12,Player First
+PF03,Player First
+PL03,Player Last
+PL13,Player First
+PF04,Player Last
+PL04,Player First
+PF05,Player Last
+PL05,Player First
+PF06,Player Last
+PL06,Player First
+PF07,Player Last
+PL07,Player First
+PF08,Player Last
+PL08,Player Last
+PF09,Player First
+PL09,Player Last
+PTHA,Throw Acc
+PSTA,Stamina
+PLEB,Left Elbow
+PREB,Right Elbow
+PKAC,Kick Acc
+PACC,Acceleration
+PHED,Head Style
+RCHD,Hometown
+PGID,Player
+PHPD,?
+PSPD,Speed
+PRSD,REDSHIRT
+PPOE,?
+PBRE,Nasal Strip
+PEYE,Eye Paint
+PLMG,Mouthguard?
+PFSH,Shape
+PLSH,Left Shoe
+PMSH,Mid Shape
+PRSH,Right Shoe
+PSSH,Shoulder Shape
+PCTH,Catch
+PAGI,Agility
+PSKI,Skin Tone
+PINJ,Injry
+PTAK,Tackle
+PPBK,Pass Block
+PRBK,Run Block
+PNEK,NeckPad
+PFMK,Face Mask
+PBTK,Break Tackle
+PHCL,Hair Color
+PFGM,Facial Hair?
+HELM,Helmet
+PHAN,Preferred Hand
+PJEN,Jersey Num
+PTEN,Tendancy
+PLHN,left gloves
+PRHN,right gloves
+PSLO,Sock Length
+PTTO,Tattoo
+PLFP,
+PTHP,Throw Power
+PFMP,Faces
+PIMP,Importance
+PJMP,Jump
+PTYP,Type
+PCAR,Carry
+PYER,Year
+PKPR,Kick Power
+PSTR,Strength
+POVR,Overall
+PAWR,Awareness
+PVIS,Visor
+PFJS,Jersey Sleeves
+PPOS,Position
+PLWS,Wrist
+PRWS,Wrist
+PHGT,Height (in)
+PWGT,Weight (lb)
+PSLT,
+PRST,
+PLSY,
+PDIS,Discipline
+ddep,Depth Chart Number
+CONF,Conference
+CGID,Conf ID
+LGID,League ID
+CNAM,Conf Name
+CMNP,
+CMXP,Conf Experience?
+CNPR,
+CPRS,Conf Prestige
+NCcl,
+DGID,Division ID
+DNAM,Division Name
+DIVI,Divisions
+TSWP,Team Swap
+TGID,Team ID
+TIDR,Team #2 ID
+SWOR,Swap Order
+TOID,Team Org ID
+SLNU,Team Number
+BOWL,Bowl Games
+BCI1,Conf #1 ID
+BCR1,Conf #1 Rank
+BCI2,Conf #1 ID
+BCR2,Conf #2 Rank
+BMFD,
+SGID,Stadium ID
+UTID,
+GTOD,Time of Day
+BNME,Bowl Name
+SGNM,Game Number
+BMON,Month
+SEWN,Week Number
+BLGO,Bowl Order
+BPLO,
+BIDX,Index
+BDAY,Day
+COCH,Coaches
+CT05,
+CT15,
+CT25,
+CDTA,
+COTA,
+CCBB,
+CDPC,
+CRPC,
+CTPC,
+CFRC,
+CFUC,User Control
+CYCD,
+CCID,Coach ID
+CDID,Def Playbook ID
+CPID,Off Playbook ID
+PTID,
+CPRE,
+CCTF,
+CLTF,
+COCI,
+CSKI,Coach Skin Tone
+CCWI,
+CSWI,
+C25L,
+CBLL,
+CCOL,
+CCRL,
+CNTL,
+CRTL,
+CTTL,
+CRVL,
+CLFN,Coach First Name
+CLLN,Coach Last Name
+CCRN,
+CCWN,
+CTWN,
+CCJO,
+CCLO,
+CSLO,
+CCPO,
+CTOP,
+CCTP,
+CHAR,
+CDTR,Def Tendency
+CLTR,
+COTR,Off Tendency
+CCYR,
+CTYR,
+CSAS,
+COFS,
+CCLS,
+CSLS,
+CTLS,
+CDTS,
+COTS,
+CCWS,
+CRWS,
+CSWS,
+CCCT,
+COCT,
+COHT,
+CCNT,
+CDST,
+COST,
+CWST,
+C25W,
+CBLW,
+CCRW,
+CCSW,
+CCTW,
+CNTW,
+CRTW,
+CTTW,
+CNVW,
+CRVW,
+CCEX,
+CFEX,
+CCFY,
+COTY,
+CBSZ,
+USid,
+CThg,
+CTgw,
+HEIS,Heisman Candidates
+MCOV,Magazine Covers
+CID0,
+HID0,
+MBK0,
+CEM0,
+CAN0,
+CTY0,
+MTTN,
+SEWN,Week Number
+MCTX,Cover Title
+MHTX,Headline Title
+MLAY,
+TEAM,Teams
+TSI1,
+TEZ1,
+TSI2,
+TEZ2,
+TL35,
+TMAA,Avg Attendance
+TMIA,
+TDNA,College Name
+TMNA,Nick Name
+TSNA,Short Name
+TCPA,
+TDPA,
+TSPA,
+TRDB,DB Rating
+TFFB,
+TRLB,LB Rating
+TFOB,
+TDPB,
+TOPB,
+TRQB,QB Rating
+TRRB,RB Rating
+TWPC,
+TPID,
+MSID,
+TFRD,
+TORD,Team Order (Display)
+TRDE,
+TCHE,
+TROF,Offense Rating
+TCPF,
+TDPF,
+TSPF,
+TFFG,
+TFOG,
+TSWI,
+TBRK,Bowl Rank
+TCRK,Coach Poll Rank
+TMRK,Media Poll Rank
+TNCL,
+TRDL,
+TMFL,
+TLGL,
+TCHL,
+TROL,
+JJNM,
+TPIO,
+TSLO,
+INPO,
+DCAP,
+OCAP,
+TMCP,
+NCDP,
+TCFP,
+TMFP,
+TPIP,
+TMPP,
+TCRP,
+TCWP,
+TDWP,
+TTYP,
+TMAR,Team Academic
+TFOR,
+TBPR,
+TCPR,
+TDPR,
+TMPR,Team Prestige
+TOPR,
+TDRR,
+TORR,
+TWRR,
+SDUR,
+TOVR,Team Overall
+TSCS,
+TSDS,
+TCHS,
+TVIS,
+THPS,
+TMPS,
+TPRS,
+SNCT,
+TCHT,
+TCPT,
+TMPT,
+TRST,
+TENV,
+TROV,
+TMRV,
+TNCW,
+TCHW,
+TSLW,
+tsal,
+tsbl,
+tscl,
+tsdl,
+tshl,
+tscs,
+tsns,
+tsaw,
+tsbw,
+tscw,
+tsdw,
+tshw,
+TMCO,Teams Controlled
+INJY,Injury List
+INJL,Injury Length
+INJY,Injury Type
+DPRS,Depth Requirements
+PDPA,
+PDSG,
+PDIM,Pos Importance
+PDPM,
+PDRP,
+PPGR,
+PPOS,Position
+PDST,Position Name
+PLPS,Position List
+PPIA,min Position
+PPSG,
+PPIM,Pos Importance
+PPIR,Pos Amt Required
+PPST,Pos Name
