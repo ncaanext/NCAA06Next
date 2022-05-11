@@ -4,7 +4,7 @@ Dynasty Modification for 2021 Season
 
 Instructions:
 
-Install the dynasty save file, by using MyMC to install the NCAA-NEXT-DYNASTY.max into the desired memory card.
+Install the dynasty save file, by using MyMC to install the NCAA-NEXT-DYNASTY.max into the desired memory card, if you are not using the default Memory Card included in NEXT.
 
 1. Load up the dynasty save file (2021dyn).
 
