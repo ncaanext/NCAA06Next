@@ -13,9 +13,9 @@ https://www.imgburn.com/index.php?act=download
 
 3. Open the new Virtual Disc drive. Copy the entire contents into the NCAA06 folder created in Step 2.
 
-4. In the same directory as this readme file, go to the Auto Method folder, and open the ISO-PATCH folder.
+4. In the same directory as this readme file, go to the Auto Method folder.
 
-5. Copy the contents (i.e. DATA and its sub-directories) into the "NCAA06" folder. This will override the existing Template.dat file.
+5. Inside this folder is a file called Template.dat. Copy it into the "NCAA06/DATA/" folder. This will override the existing Template.dat file.
 
 6. Now open ImgBurn.
 
