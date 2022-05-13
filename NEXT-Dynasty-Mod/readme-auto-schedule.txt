@@ -38,7 +38,7 @@ Install the dynasty save file, by using MyMC to install the NCAA-NEXT-DYNASTY.ma
 
 2. Go to COACH OPTIONS. Go to POSITIONS.
 
-3. If you do not want to be Kalean DeBoer/Washington, press CIRCLE to create a new Coach and team. Then highlight Washington and press X to quit was Washington.
+3. If you do not want to be UMass, press CIRCLE to create a new Coach and team. Then highlight UMass and press X to quit was UMass.
 
 
 The first season is all setup with a working schedule, new rosters, depth charts, playbook and coaching changes, as well as magazine covers, and Heisman candidates.
