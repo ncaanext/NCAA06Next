@@ -13,9 +13,9 @@ https://www.imgburn.com/index.php?act=download
 
 3. Open the new Virtual Disc drive. Copy the entire contents into the NCAA06 folder created in Step 2.
 
-4. In the same directory as this readme file, go to the Auto Method folder, and open the ISO-PATCH folder.
+4. In the same directory as this readme file, go to the Auto Method folder.
 
-5. Copy the contents (i.e. DATA and its sub-directories) into the "NCAA06" folder. This will override the existing Template.dat file.
+5. Inside this folder is a file called Template.dat. Copy it into the "NCAA06/DATA/" folder. This will override the existing Template.dat file.
 
 6. Now open ImgBurn.
 
@@ -38,7 +38,7 @@ Install the dynasty save file, by using MyMC to install the NCAA-NEXT-DYNASTY.ma
 
 2. Go to COACH OPTIONS. Go to POSITIONS.
 
-3. If you do not want to be Kalean DeBoer/Washington, press CIRCLE to create a new Coach and team. Then highlight Washington and press X to quit was Washington.
+3. If you do not want to be UMass, press CIRCLE to create a new Coach and team. Then highlight UMass and press X to quit was UMass.
 
 
 The first season is all setup with a working schedule, new rosters, depth charts, playbook and coaching changes, as well as magazine covers, and Heisman candidates.
