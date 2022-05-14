@@ -3,31 +3,28 @@ Dynasty Modification for 2021 Season
 
 This method creates a modified NCAA 06 Football ISO file for using this specific Dynasty Mod.
 
-To start, you will need to download an Disc Burning tool. I prefer this free software called ImgBurn. 
+Tools:
+Any Burn: https://anyburn.com/
 
-https://www.imgburn.com/index.php?act=download
+Download Any Burn. It's a free ISO file maker and CD/DVD Burning software!
 
-1. Find your NCAA 06 ISO file and double click it in Windows. This will create a new virtual drive.
+Patch Instructions: 
 
-2. Create a new folder anywhere on your computer, and call it "NCAA06" or whatever you like.
+For walk-through with images, go here: https://github.com/antdroidx/NCAA06Next/wiki/Disc-Patch---Auto-Schedule-Generator-Installation
 
-3. Open the new Virtual Disc drive. Copy the entire contents into the NCAA06 folder created in Step 2.
+1. Open Any Burn, and choose EDIT IMAGE FILE
 
-4. In the same directory as this readme file, go to the Auto Method folder.
+2. Locate and choose the existing NCAA Football 06 ISO file, and click NEXT.
 
-5. Inside this folder is a file called Template.dat. Copy it into the "NCAA06/DATA/" folder. This will override the existing Template.dat file.
+3. The ISO's file tree will now open. Double-click on DATA folder.
 
-6. Now open ImgBurn.
+4. Press ADD at the top, and locate the Template.dat file in the NCAA NEXT folder. This Template.dat is located in /NEXT-DYNASTY-MOD/Auto Method/. Add this Template.dat file, and choose YES to override the existing file.
 
-7. Click CREATE IMAGE FROM FILES/FOLDERS on the middle-right side.
+5. Press NEXT, and then choose the Image File Name you want to create. I call mine, NCAA06-Mod.iso.
 
-8. On the left hand side, click the folder search icon ("Browse for a Folder") and select the NCAA06 root folder.
+6. Press CREATE and let it do its magic.
 
-9. Click the Create ISO icon at the bottom left. Its the icon that looks like a folder pointing to a CD image.
-
-10. Click through the prompts, choose a name for the ISO, and wait for the app to create a new ISO file.
-
-11. Now you can start PCSX2 with the new ISO created!
+7. In PCSX2, load this newly created ISO image when using the Dynasty Mod saves.
 
 
 In-Game Setup Instructions:
