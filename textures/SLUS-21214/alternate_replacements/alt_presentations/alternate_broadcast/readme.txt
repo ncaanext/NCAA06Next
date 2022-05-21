@@ -12,3 +12,7 @@ Triangle replaces Football possession sign
 Timeouts Remaining replaced with bars
 Removed Pontiac sponsorships, replaced with All-State and Coca Cola
 etc.
+
+
+
+SLUS_212.14 contains the fix to change the Pontiac branding to All-State. It will need to be added to the Disc/ISO and replace the existing file on the root folder.
