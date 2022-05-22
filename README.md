@@ -56,17 +56,17 @@ To use this patch, place it in your pcsx2 'cheats' folder, make sure cheats are 
 
 Uniform updates (Done doesn't mean we wont keep adding stuff :)):
 
-<b>BIG TEN</b> - Done
+<b>BIG TEN</b> - Complete 100%
 
-<b>PAC12</b> - Done
+<b>PAC12</b> - Complete 100%
 
-<b>SEC</b> - Done
+<b>SEC</b> - Complete 100%
 
-<b>Big 12</b> - TBD
+<b>Big 12</b> - 10%
 
 <b>Big East</b> - TBD
 
-<b>MAC</b> - TBD
+<b>MAC</b> - Complete 100%
 
 <b>Conf USA</b> - TBD
 
@@ -76,7 +76,7 @@ Uniform updates (Done doesn't mean we wont keep adding stuff :)):
 
 <b>Sun Belt</b> - TBD
 
-<b>Independents</b> - TBD
+<b>Independents</b> - 20%
 
 <b>Div IIA</b> - TBD
 
