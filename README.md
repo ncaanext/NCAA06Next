@@ -5,7 +5,7 @@
 
 ### Latest Release
 
-https://github.com/h4wduk3n/NCAA06Next/releases/tag/v5.1
+https://github.com/h4wduk3n/NCAA06Next/releases/tag/v5.2
 
 ### Discord
 
