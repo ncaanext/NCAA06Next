@@ -40,7 +40,7 @@ Hooray!
 
 Patch Update Notes:
 
-Teams Updated as of 5/26/2022
+Teams Updated as of 5/27/2022
 Washington
 West Virginia
 Duke
@@ -53,6 +53,7 @@ Ohio
 Oregon State
 Texas
 Kansas
+Purdue
 
 If you have requested changes, please fill out this sheet: https://docs.google.com/spreadsheets/d/18zHdlEUDCIbF722Oe_-YOsQNOdChsykrFL7n4ia_zZY/edit?usp=sharing
 
