@@ -11,7 +11,7 @@ https://github.com/h4wduk3n/NCAA06Next/releases/tag/v5.2
 
 Find our discord server here:
 
-https://discord.gg/kXe9cA4U2p
+https://discord.gg/55EMdS5ewx
 
 ### Install Tutorial
 
@@ -52,9 +52,9 @@ https://github.com/h4wduk3n/NCAA06Next/tree/main/cheats
 
 To use this patch, place it in your pcsx2 'cheats' folder, make sure cheats are enabled in pcsx2.  In 'general' settings of pcsx2 set your display aspect to 16:9 and zoom to '0'. Finally, set deinterlacing to 'none' in GS settings.  This is what worked best for me.
 
-### Current status:
+### Current status as of 5/29:
 
-Uniform updates (Done doesn't mean we wont keep adding stuff :)):
+Uniform Updates (based on CURRENT DAY conferences)
 
 <b>BIG TEN</b> - Complete 100%
 
@@ -62,21 +62,21 @@ Uniform updates (Done doesn't mean we wont keep adding stuff :)):
 
 <b>SEC</b> - Complete 100%
 
-<b>Big 12</b> - 10%
+<b>Big 12</b> - 90%
 
-<b>Big East</b> - TBD
+<b>American</b> - 55%
 
 <b>MAC</b> - Complete 100%
 
-<b>Conf USA</b> - TBD
+<b>Conf USA</b> - 0%
 
-<b>WAC</b> - TBD
+<b>WAC</b> - N/A
 
-<b>Mountain West</b> - TBD
+<b>Mountain West</b> - 17%
 
-<b>Sun Belt</b> - TBD
+<b>Sun Belt</b> - 0%
 
-<b>Independents</b> - 20%
+<b>Independents</b> - 67%
 
 <b>Div IIA</b> - TBD
 
