@@ -26,9 +26,9 @@ https://www.imgburn.com/index.php?act=download
 
 8. On the left hand side, click the folder search icon ("Browse for a Folder") and select the NCAA06 root folder.
 
-9. Click the Create ISO icon at the bottom left. Its the icon that looks like a folder pointing to a CD image.
+9. Click the "BUILD" icon at the bottom left. Its the icon that looks like a folder pointing to a CD image.
 
-10. Click through the prompts, choose a name for the ISO, and wait for the app to create a new ISO file.
+10. Click through the prompts "yes a few times", choose a name for the ISO, and wait for the app to create a new ISO file.
 
 11. Now you can start PCSX2 with the new ISO created!
 
