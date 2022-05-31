@@ -91,6 +91,12 @@ This mod now includes a base starting Dynasty Save to use as a 2021 starter file
 
 If you want to create your own version, please see the following section for more info.
 
+### Sponsorship Text Patch:
+
+This mod patches the Pontiac Drive Summary text to All-State Drive Recap to go with the Texture update for sponsorships.
+
+
+
 ### For more support, please ask on Discord!
 
 ### Team members:
