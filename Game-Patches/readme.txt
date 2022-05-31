@@ -14,4 +14,5 @@ This patch includes updates to the number and helmet number/letter design locati
 Dynasty Mod:
 This mod updates the game with 2021 rosters, and updates the schedule generation templates to create new realigned conference structure exclusively for the Dynasty Save starter file. Do not create a new Dynasty with this patch. It will not work correctly and may crash. This is compatible with other mods, but not with the 2021-Road-to-Heisman patch, since they replace the same file.
 
-
+All-State Patch
+This patch updates the Pontiac Drive Summary text to say All-State Drive Recap to go with the All-State sponsorship update. They are the official sponsor of NCAA Field Goals. This patch will work with all combinations of patches.
