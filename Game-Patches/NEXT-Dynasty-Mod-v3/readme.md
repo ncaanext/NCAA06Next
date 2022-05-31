@@ -1,34 +1,56 @@
-<B>NCAA Football 06 NEXT Dynasty Mod by Antdroid</B>
+NCAA Football 06 - NEXT
+Dynasty Modification for 2021 Season
 
-Introduction:
-
-This is a complete dynasty modification to the Dynasty mode of NCAA Football 06. The mod includes a starter save file that includes the following:
-
--2021 Season Rosters and Depth Chart
-
--Coach and Coach Strategy/Playbook Updates
-
--Complete Conference Realignment : a mixture of traditional and modern, within the constraints of the game
-
--Updated Magazine Covers and initial Heisman Candidates
-
--Updated Rankings and Prestige
-
--Start year of 2021
-
-
-<hr>
-<B>Conference Realignment Preview : Click to View Full-Size Image</B>
-<img src="NCAA-NEXT-Realignment.png">
-
-<hr>
-
-
-This dynasty mod does require some manual modifications. 
-
-The first and preferred method requires an upfront manual creation of a new NCAA 06 ISO file. The instructions are in <a href="readme-auto-schedule.txt">readme-auto-schedule.txt</a>. 
-
-The alternative method is easier upfront, but requires manual file manipulation at the end of each season. The instructions for this are in <a href="readme-manual-schedule.txt">readme-manual-schedule.txt</a>
+This method creates a modified NCAA 06 Football ISO file for using this specific Dynasty Mod.
 
 
 
+To start, you will need to download an Disc Burning tool. I prefer this free software called ImgBurn.
+
+https://www.imgburn.com/index.php?act=download
+
+
+1. Find your NCAA 06 ISO file and double click it in Windows. This will create a new virtual drive.
+
+2. Create a new folder anywhere on your computer, and call it "NCAA06" or whatever you like.
+
+3. Open the new Virtual Disc drive. Copy the entire contents into the NCAA06 folder created in Step 2.
+
+4. In the same directory as this readme file, go to the Auto Method folder, and open the Schedule Patch folder.
+
+5. Copy contents of the Schedule Patch folder (i.e. DATA folder and its files) into the "NCAA06" folder. This will override the existing Template.dat file.
+
+6. Now open ImgBurn.
+
+7. Click CREATE IMAGE FROM FILES/FOLDERS on the middle-right side.
+
+8. On the left hand side, click the folder search icon ("Browse for a Folder") and select the NCAA06 root folder.
+
+9. Click the Create ISO icon at the bottom left. Its the icon that looks like a folder pointing to a CD image.
+
+10. Click through the prompts, choose a name for the ISO, and wait for the app to create a new ISO file.
+
+11. Now you can start PCSX2 with the new ISO created!
+
+
+In-Game Setup Instructions:
+
+Install the dynasty save file, by using MyMC to install the NCAA-NEXT-DYNASTY-2021.psu into the desired memory card, if you are not using the default Memory Card included in NEXT.
+
+1. Load up the dynasty save file (2021dyn).
+
+2. Go to COACH OPTIONS. Go to POSITIONS.
+
+3. If you do not want to be UMass, press CIRCLE to create a new Coach and team. Then highlight UMass and press X to quit was UMass.
+
+
+The first season is all setup with a working schedule, new rosters, depth charts, playbook and coaching changes, as well as magazine covers, and Heisman candidates.
+
+Play as you normally would throughout the entire season!
+
+This patched ISO you created will automatically generate season schedules automatically!
+
+
+Hooray!
+
+-Antdroid

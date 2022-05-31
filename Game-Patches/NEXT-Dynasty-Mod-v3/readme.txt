@@ -16,9 +16,9 @@ https://www.imgburn.com/index.php?act=download
 
 3. Open the new Virtual Disc drive. Copy the entire contents into the NCAA06 folder created in Step 2.
 
-4. In the same directory as this readme file, go to the Auto Method folder, and open the ISO-PATCH folder.
+4. In the same directory as this readme file, go to the Auto Method folder, and open the Schedule Patch folder.
 
-5. Copy the contents (i.e. DATA and its sub-directories) into the "NCAA06" folder. This will override the existing Template.dat file.
+5. Copy contents of the Schedule Patch folder (i.e. DATA folder and its files) into the "NCAA06" folder. This will override the existing Template.dat file.
 
 6. Now open ImgBurn.
 
@@ -35,7 +35,7 @@ https://www.imgburn.com/index.php?act=download
 
 In-Game Setup Instructions:
 
-Install the dynasty save file, by using MyMC to install the NCAA-NEXT-DYNASTY.psu into the desired memory card, if you are not using the default Memory Card included in NEXT.
+Install the dynasty save file, by using MyMC to install the NCAA-NEXT-DYNASTY-2021.psu into the desired memory card, if you are not using the default Memory Card included in NEXT.
 
 1. Load up the dynasty save file (2021dyn).
 
