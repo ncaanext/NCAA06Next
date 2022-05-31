@@ -72,8 +72,6 @@ MUCH MORE!
 
 For rosters, you may get a .ps2 memory card file for pcsx2 courtesy of operation sports here:
 
-https://github.com/h4wduk3n/NCAA06Next/tree/main/rosters
-
 Memory Card Includes:
 1. 2021 Season Div 1A Rosters 
 2. 2021 Season Div 1AA Rosters for FBS Schools only (Appalachian State, Texas State, UMass, and Western Kentucky). The rest are auto-named default rosters.
