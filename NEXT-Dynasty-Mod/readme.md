@@ -23,8 +23,7 @@ This is a complete dynasty modification to the Dynasty mode of NCAA Football 06.
 
 <hr>
 
-
-##INSTRUCTIONS
+<BR>INSTRUCTIONS</BR>
 
 This method creates a modified NCAA 06 Football ISO file for using this specific Dynasty Mod.
 
