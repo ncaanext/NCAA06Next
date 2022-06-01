@@ -5,7 +5,7 @@
 
 ### Latest Release
 
-https://github.com/h4wduk3n/NCAA06Next/releases/tag/v5.2
+https://github.com/h4wduk3n/NCAA06Next/releases/tag/v6
 
 ### Discord
 
@@ -24,29 +24,7 @@ https://github.com/h4wduk3n/NCAA06Next/wiki
 
 Uniform Updates (based on CURRENT DAY conferences)
 
-<b>BIG TEN</b> - Complete 100%
-
-<b>PAC12</b> - Complete 100%
-
-<b>SEC</b> - Complete 100%
-
-<b>Big 12</b> - 90%
-
-<b>American</b> - 55%
-
-<b>MAC</b> - Complete 100%
-
-<b>Conf USA</b> - 0%
-
-<b>WAC</b> - N/A
-
-<b>Mountain West</b> - 17%
-
-<b>Sun Belt</b> - 0%
-
-<b>Independents</b> - 67%
-
-<b>Div IIA</b> - TBD
+![image](https://user-images.githubusercontent.com/19662073/171270643-09015d10-9a37-49f4-aa80-aa92daf4c602.png)
 
 ## Uniform Patch
 
