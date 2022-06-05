@@ -20,7 +20,7 @@ Instructions:
 
 3. Open the new Virtual Disc drive. Copy the entire contents into the NCAA06 folder created in Step 2.
 
-4. Take the STRMDATA.DB file in this folder, and replace the file in "NCAA06" located in its DATA folder.
+4. Take the STRMDATA.DB file in this patch folder, and replace the file in "NCAA06" located in its DATA folder. Optionally, you can just drag the DATA folder into the NCAA06 folder and it'll replace it as well.
 
 5. Now open ImgBurn.
 
