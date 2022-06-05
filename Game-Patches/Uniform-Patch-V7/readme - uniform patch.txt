@@ -39,8 +39,13 @@ Hooray!
 
 
 Patch Update Notes:
+New Uniform Patches for V7
+San Diego State
+Utah State
+Colorado State
 
-Teams Updated as of 5/29/2022
+
+Teams Updated as of 5/29/2022 (V6)
 Washington
 West Virginia
 Duke
@@ -56,6 +61,10 @@ Kansas
 Purdue
 Baylor
 Miami
+Texas Tech
+
+
+
 
 If you have requested changes, please fill out this sheet: https://docs.google.com/spreadsheets/d/18zHdlEUDCIbF722Oe_-YOsQNOdChsykrFL7n4ia_zZY/edit?usp=sharing
 
