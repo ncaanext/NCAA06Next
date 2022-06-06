@@ -20,7 +20,7 @@ Instructions:
 
 3. Open the new Virtual Disc drive. Copy the entire contents into the NCAA06 folder created in Step 2.
 
-4. Take the TEMPLATE.DAT file in this folder, and replace the file in "NCAA06" located in its DATA folder.
+4. Take the TEMPLATE.DAT file in this folder, and replace the file in "NCAA06" located in its DATA folder. Optionally, you can drag the DATA folder in this patch, and put it in "NCAA06". It will override the template.dat as well.
 
 5. Now open ImgBurn.
 
