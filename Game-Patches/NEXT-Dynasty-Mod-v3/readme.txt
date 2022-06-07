@@ -4,6 +4,9 @@ Dynasty Modification for 2021 Season
 This method creates a modified NCAA 06 Football ISO file for using this specific Dynasty Mod.
 
 
+v1.1 Update
+Fixed Schedule to have more end of the year matchups correct, as best as possible.
+
 
 To start, you will need to download an Disc Burning tool. I prefer this free software called ImgBurn.
 
