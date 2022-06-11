@@ -39,6 +39,12 @@ Hooray!
 
 
 Patch Update Notes:
+
+New for V8
+Kent State
+Nebraska
+Northern Illinois
+
 New Uniform Patches for V7
 San Diego State
 Utah State
