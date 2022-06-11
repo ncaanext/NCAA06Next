@@ -77,28 +77,25 @@ This mod patches certain game dialogues such as NCAA Football NEXT and the Ponti
 
 ### Team members:
 
-Ok and!?#5944
+Development Team:
 
-H4wduk3n#1798
+Ok and!?
+
+H4wduk3n
 
 Antdroid
 
-King Shmiley
-
-cgator22
-
-chloehotline
-
-jackson
-
-Ottie30
+BuBeavers92
 
 RobotDebris
 
-BuBeavers92
+4Star
 
-Jsk
+jackson
 
-xflamexofxhopex
+
+Social Media:
+
+ShawnCustoms
 
 
