@@ -36,6 +36,11 @@ https://www.imgburn.com/index.php?act=download
 11. Now you can start PCSX2 with the new ISO created!
 
 
+Championship Game Updates:
+
+I have updated graphics for the B1G TEN and PAC-12 Championship games. They are located either in this GamePatch folder or in the Alternate_Replacements texture folder. Just drag the folder contents over to the Replacements/General/Bowl Games folder. The B1G Ten game will be completely revised with B1G Championship logos. The Pac12 game will show in the actual game itself, however the MENU during Champ Week will still show CUSA logo unfortunately.
+
+
 In-Game Setup Instructions:
 
 Install the dynasty save file, by using MyMC to install the NCAA-NEXT-DYNASTY-2021.psu into the desired memory card, if you are not using the default Memory Card included in NEXT.

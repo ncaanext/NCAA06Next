@@ -4,6 +4,9 @@ This is a collection of separate patches that can possibly be combined to change
 
 You can combine and install these patches at the same time as long as they are compatible. As such, you can, and should, create separate iso files for each mod version you want! :)
 
+V8 Updates:
+Dynasty Textures are now in Dynasty 
+
 
 Pre-Configured Combos:
 
