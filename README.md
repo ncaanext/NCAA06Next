@@ -1,5 +1,7 @@
 # NCAA 06 Next!
-## 2022 Updates to NCAA Football 2006 for PS2
+## 2022 Updates to NCAA Football 2006 for PCSX2 & AetherSX2
+
+https://www.ncaanext.com
 
 ![NCAA06-NEXT-2022v2](https://user-images.githubusercontent.com/24241868/173173341-8fa388b9-883c-4b3f-91a2-48f49a577338.png)
 
@@ -23,7 +25,8 @@ https://github.com/h4wduk3n/NCAA06Next/wiki
 ### Uniform Updates (as of 6/10/2022)
 
 Uniform Updates (based on CURRENT DAY conferences)
-![6-10-status](https://user-images.githubusercontent.com/24241868/173173432-eb9b1d3b-f140-4158-aae6-95c16c969058.png)
+
+![6-10-status](https://user-images.githubusercontent.com/24241868/173203933-2dc602ab-61f6-47fe-88c6-c3d2d14c4bc0.png)
 
 
 ## Uniform Patch
@@ -77,28 +80,25 @@ This mod patches certain game dialogues such as NCAA Football NEXT and the Ponti
 
 ### Team members:
 
-Ok and!?#5944
+Development Team:
 
-H4wduk3n#1798
+Ok and!?
+
+H4wduk3n
 
 Antdroid
 
-King Shmiley
-
-cgator22
-
-chloehotline
-
-jackson
-
-Ottie30
+BuBeavers92
 
 RobotDebris
 
-BuBeavers92
+4Star
 
-Jsk
+jackson
 
-xflamexofxhopex
+
+Social Media:
+
+ShawnCustoms
 
 
