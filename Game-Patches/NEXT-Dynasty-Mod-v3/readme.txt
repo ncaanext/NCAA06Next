@@ -4,6 +4,9 @@ Dynasty Modification for 2021 Season
 This method creates a modified NCAA 06 Football ISO file for using this specific Dynasty Mod.
 
 
+v1.1 Update
+Fixed Schedule to have more end of the year matchups correct, as best as possible.
+
 
 To start, you will need to download an Disc Burning tool. I prefer this free software called ImgBurn.
 
@@ -31,6 +34,11 @@ https://www.imgburn.com/index.php?act=download
 10. Click through the prompts "yes a few times", choose a name for the ISO, and wait for the app to create a new ISO file.
 
 11. Now you can start PCSX2 with the new ISO created!
+
+
+Championship Game Updates:
+
+I have updated graphics for the B1G TEN and PAC-12 Championship games. They are located either in this GamePatch folder or in the Alternate_Replacements texture folder. Just drag the folder contents over to the Replacements/General/Bowl Games folder. The B1G Ten game will be completely revised with B1G Championship logos. The Pac12 game will show in the actual game itself, however the MENU during Champ Week will still show CUSA logo unfortunately.
 
 
 In-Game Setup Instructions:
