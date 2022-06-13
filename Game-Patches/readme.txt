@@ -4,12 +4,15 @@ This is a collection of separate patches that can possibly be combined to change
 
 You can combine and install these patches at the same time as long as they are compatible. As such, you can, and should, create separate iso files for each mod version you want! :)
 
+V8 Updates:
+Dynasty Textures are now in Dynasty 
+
 
 Pre-Configured Combos:
 
-1-General-Combo-Patch: This pack combines the Heisman, All-State and Uniform patch into a single folder so you can quickly make an ISO for general usage. This allows you to start new dynasties and other features without errors.
+1-General-Combo-Patch: This pack combines the Heisman, Text Patch and Uniform patch into a single folder so you can quickly make an ISO for general usage. This allows you to start new dynasties and other features without errors.
 
-2-Dynasty-Combo-Patch: This pack combines the Dynasty Mod, All-State and Uniform patch into a single folder so you can quickly make an ISO for use with Antdroid's Dynasty Super Mod usage ONLY. You can still use this ISO for quick play mode, but do not use with a new Dynasty that is not made from the Super Mod save file.
+2-Dynasty-Combo-Patch: This pack combines the Dynasty Mod, Text Patch and Uniform patch into a single folder so you can quickly make an ISO for use with Antdroid's Dynasty Super Mod usage ONLY. You can still use this ISO for quick play mode, but do not use with a new Dynasty that is not made from the Super Mod save file.
 
 
 Indvidiual Patch and Info:
@@ -23,8 +26,8 @@ This patch includes updates to the number and helmet number/letter design locati
 Dynasty Mod:
 This mod updates the game with 2021 rosters, and updates the schedule generation templates to create new realigned conference structure exclusively for the Dynasty Save starter file. Do not create a new Dynasty with this patch. It will not work correctly and may crash. This is compatible with other mods, but not with the 2021-Road-to-Heisman patch, since they replace the same file.
 
-All-State Patch
-This patch updates the Pontiac Drive Summary text to say All-State Drive Recap to go with the All-State sponsorship update. They are the official sponsor of NCAA Field Goals. This patch will work with all combinations of patches.
+Text Patch
+This patch updates NCAA Football 06 to NCAA Football NEXT in the pre-game screen. the Pontiac Drive Summary text to say All-State Drive Recap to go with the All-State sponsorship update. They are the official sponsor of NCAA Field Goals. This patch will work with all combinations of patches.
 
 
 
