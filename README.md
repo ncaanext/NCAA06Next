@@ -1,7 +1,9 @@
 # NCAA 06 Next!
-## 2022 Updates to NCAA Football 2006 for PS2
+## 2022 Updates to NCAA Football 2006 for PCSX2 & AetherSX2
 
-<img src=https://github.com/h4wduk3n/NCAA06Next/blob/main/NCAA06-NEXT-2022V2.png width=400>
+https://www.ncaanext.com
+
+![NCAA06-NEXT-2022v2](https://user-images.githubusercontent.com/24241868/173173341-8fa388b9-883c-4b3f-91a2-48f49a577338.png)
 
 ### Latest Release
 
@@ -20,11 +22,12 @@ https://github.com/h4wduk3n/NCAA06Next/wiki
 
 ## What's Included:
 
-### Uniform Updates (as of 5/29/2022)
+### Uniform Updates (as of 6/10/2022)
 
 Uniform Updates (based on CURRENT DAY conferences)
 
-![image](https://user-images.githubusercontent.com/19662073/171270643-09015d10-9a37-49f4-aa80-aa92daf4c602.png)
+![6-10-status](https://user-images.githubusercontent.com/24241868/173203933-2dc602ab-61f6-47fe-88c6-c3d2d14c4bc0.png)
+
 
 ## Uniform Patch
 
@@ -67,9 +70,9 @@ This mod now includes a base starting Dynasty Save to use as a 2021 starter file
 
 If you want to create your own version, please see the following section for more info.
 
-### Sponsorship Text Patch:
+### In-Game Text Patch:
 
-This mod patches the Pontiac Drive Summary text to All-State Drive Recap to go with the Texture update for sponsorships.
+This mod patches certain game dialogues such as NCAA Football NEXT and the Pontiac Drive Summary text to All-State Drive Recap to go with the Texture update for sponsorships.
 
 
 
@@ -77,28 +80,25 @@ This mod patches the Pontiac Drive Summary text to All-State Drive Recap to go w
 
 ### Team members:
 
-Ok and!?#5944
+Development Team:
 
-H4wduk3n#1798
+Ok and!?
+
+H4wduk3n
 
 Antdroid
 
-King Shmiley
-
-cgator22
-
-chloehotline
-
-jackson
-
-Ottie30
+BuBeavers92
 
 RobotDebris
 
-BuBeavers92
+4Star
 
-Jsk
+jackson
 
-xflamexofxhopex
+
+Social Media:
+
+ShawnCustoms
 
 
