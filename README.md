@@ -7,7 +7,7 @@ https://www.ncaanext.com
 
 ### Latest Release
 
-https://github.com/h4wduk3n/NCAA06Next/releases/tag/v7
+https://github.com/h4wduk3n/NCAA06Next/releases/tag/V8
 
 ### Discord
 
