@@ -23,11 +23,11 @@ https://github.com/h4wduk3n/NCAA06Next/wiki
 
 ## What's Included:
 
-### Uniform Updates (as of 6/10/2022)
+### Uniform Updates (as of 6/17/2022)
 
 Uniform Updates (based on CURRENT DAY conferences)
 
-![6-10-status](https://user-images.githubusercontent.com/24241868/173203933-2dc602ab-61f6-47fe-88c6-c3d2d14c4bc0.png)
+![Picture1](https://user-images.githubusercontent.com/24241868/174245873-590444e2-1a5e-40e6-8381-bbd47872f064.png)
 
 
 ## Uniform Patch
