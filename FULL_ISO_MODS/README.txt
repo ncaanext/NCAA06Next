@@ -24,29 +24,47 @@ Heisman Mode working with 2021 rosters
 Updated Heisman Candidates, Team Rankings, Prestige, etc.
 
 
-119-Team-ISO
+NCAA-NEXT-MODERNIZED
+This updates the original game with:
+* Updated Rosters built-in
+* Heisman Mode working with 2021 rosters
+* Updated Team Names (no more "indians")
+* Updated Coaches & Strategies, including FCS coaches built-in
+* Updated Conf and Team Prestige, Rankings
+* Uniform Patches for Texture Mods
+* New First/Last Names Generation Database
+* In-Game Text Updates
+* Removed default Transfers
+* Initial Heisman Candidates Updated
+* Updated Positional Importance
 
-All of the above, with additional:
-Realigned Conferences Built-In
-WKU, App State -> CUSA
-UMass -> Independent
-Air Force, Army, Navy, Idaho -> FCS (Colonial and Big Sky Conf)
-Revised Schedule Generators
-Expanded Save Templates
-Removed default Transfers
+* Realigned Conferences Built-In - Real Power 5 x 14 team/12 team conferences with "close to real" group of "6"
+* Based on 2022-2025 realignment plans
+* KU, App State, UMass, Texas State -> FBS
+* Air Force, Army, Navy, Idaho -> FCS 
+* Revised Schedule Generators 
 
 
 
-120-Team-ISO
+NCAA-119-12TeamConf
+This updates the original game with:
+* Updated Rosters built-in
+* Heisman Mode working with 2021 rosters
+* Updated Team Names (no more "indians")
+* Updated Coaches & Strategies, including FCS coaches built-in
+* Updated Conf and Team Prestige, Rankings
+* Uniform Patches for Texture Mods
+* New First/Last Names Generation Database
+* In-Game Text Updates
+* Removed default Transfers
+* Initial Heisman Candidates Updated
+* Updated Positional Importance
 
-Realigned with 120 Teams (1 more than original game!)
-Georgia Southern, WKU, App State -> CUSA
-UMass -> Independent
-Air Force, Army, Navy, Idaho -> FCS (Colonial and Big Sky Conf)
-Revised Schedule Generator Templates for 120-team league.
+* Realigned Conferences with Power 6 - 12 Team Conferences
+* KU, App State, UMass, Texas State -> FBS
+* Air Force, Army, Navy, Idaho -> FCS 
+* Revised Schedule Generators 
 
-
-Future ?!?
 
 
 
