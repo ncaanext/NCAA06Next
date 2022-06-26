@@ -46,28 +46,6 @@ This updates the original game with:
 
 
 
-NCAA-119-12TeamConf
-This updates the original game with:
-* Updated Rosters built-in
-* Heisman Mode working with 2021 rosters
-* Updated Team Names (no more "indians")
-* Updated Coaches & Strategies, including FCS coaches built-in
-* Updated Conf and Team Prestige, Rankings
-* Uniform Patches for Texture Mods
-* New First/Last Names Generation Database
-* In-Game Text Updates
-* Removed default Transfers
-* Initial Heisman Candidates Updated
-* Updated Positional Importance
-
-* Realigned Conferences with Power 6 - 12 Team Conferences
-* KU, App State, UMass, Texas State -> FBS
-* Air Force, Army, Navy, Idaho -> FCS 
-* Revised Schedule Generators 
-
-
-
-
 
 INSTALLATION
 
