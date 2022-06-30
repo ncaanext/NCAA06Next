@@ -23,11 +23,11 @@ https://github.com/h4wduk3n/NCAA06Next/wiki
 
 ## What's Included:
 
-### Uniform Updates (as of 6/18/2022)
+### Uniform Updates
 
 Uniform Updates (based on CURRENT DAY conferences)
 
-![Picture1](https://user-images.githubusercontent.com/24241868/174245961-4040c89d-4534-4a4b-9347-efd7a5d93b80.png)
+![NEXT-V9-Poster](https://user-images.githubusercontent.com/24241868/176588761-bc76cba9-62d6-4090-ad16-4b00739b1810.png)
 
 
 
@@ -50,6 +50,12 @@ Player Skins
 Controller Layout Art
 
 MUCH MORE!
+
+### NCAA NEXT '21 Modernization Beta
+
+https://github.com/h4wduk3n/NCAA06Next/wiki/3.-Installation-of-the-NCAA-06-NEXT-Modern-'21-%5BISO-PATCH%5D
+
+
 
 ### Roster updates:
 
