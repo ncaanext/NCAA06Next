@@ -1,5 +1,13 @@
 NCAA 06 Football Patches by Antdroid
 
+NOTE: THESE ARE NOW OBSOLETED BY THE FULL_ISO_MODS by Antdroid & JDHalfrack.
+
+Please see those files for more info!
+
+
+---
+
+
 This is a collection of separate patches that can possibly be combined to change different aspects of the base game disc.
 
 You can combine and install these patches at the same time as long as they are compatible. As such, you can, and should, create separate iso files for each mod version you want! :)
