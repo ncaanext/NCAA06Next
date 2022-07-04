@@ -27,7 +27,7 @@ Email: h4wduk3n@yahoo.com
 
 You will be reminded to but be sure to use the contributor list in this Readme in your article or media.
 
-*We strive to acknowledge all those contribuitng assets and knowledge to this project.*
+*We strive to acknowledge all those contributing assets and knowledge to this project.*
 
 ### Wiki Help
 
