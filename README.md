@@ -4,9 +4,6 @@
 https://www.ncaanext.com
 ![image](https://user-images.githubusercontent.com/19662073/173284638-6e6f6d13-1b71-4c03-8b89-fd78be80efdd.png)
 
-*For inquiries, including media, about this repository or project please start by contacting @h4wduk3n#1798 / @h4wduk3n and be sure to use the contributor list in this Readme in your article or media.*
-
-We strive to acknowledge all those contribuitng assets and knowledge to this project.
 
 ### Latest Release
 
@@ -17,6 +14,12 @@ https://github.com/h4wduk3n/NCAA06Next/releases/tag/V8
 Find our discord server here:
 
 https://discord.gg/55EMdS5ewx
+
+### Media inquiries
+
+*For media inquiries about this repository or project please start by contacting the team on discord or @h4wduk3n#1798 / @h4wduk3n and be sure to use the contributor list in this Readme in your article or media.*
+
+We strive to acknowledge all those contribuitng assets and knowledge to this project.
 
 ### Wiki Help
 
