@@ -92,7 +92,7 @@ This mod patches certain game dialogues such as NCAA Football NEXT and the Ponti
 
 Development Team:
 
-Ok and!?
+Ok and!? (Discord server admin)
 
 H4wduk3n
 
