@@ -9,7 +9,7 @@ https://www.ncaanext.com
 
 https://github.com/h4wduk3n/NCAA06Next/releases/tag/V8
 
-If you run into problems first check the wiki on githhb, then the issues list. You can then try to get help on discord or file an issue on github.
+If you run into problems first check the wiki on github, then the issues list. You can then try to get help on discord or file an issue on github.
 
 ### Discord
 
