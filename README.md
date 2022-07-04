@@ -4,7 +4,8 @@
 https://www.ncaanext.com
 ![image](https://user-images.githubusercontent.com/19662073/173284638-6e6f6d13-1b71-4c03-8b89-fd78be80efdd.png)
 
-*For inquiries, including media, about this repository or project please start by contacting @h4wduk3n#1798 / @h4wduk3n and be sure to use the contributor list in this Readme in your article or media*
+*For inquiries, including media, about this repository or project please start by contacting @h4wduk3n#1798 / @h4wduk3n and be sure to use the contributor list in this Readme in your article or media.*
+
 We strive to acknowledge all those contribuitng assets and knowledge to this project.
 
 ### Latest Release
