@@ -7,7 +7,7 @@ https://www.ncaanext.com
 
 ### Latest Release
 
-https://github.com/h4wduk3n/NCAA06Next/releases/tag/V8
+https://github.com/h4wduk3n/NCAA06Next/releases/tag/v9
 
 If you run into problems first check the wiki on github, then the issues list. You can then try to get help on discord or file an issue on github.
 
