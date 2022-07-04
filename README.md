@@ -17,15 +17,17 @@ https://discord.gg/55EMdS5ewx
 
 ### Media inquiries
 
-*For media inquiries about this repository or project please start by contacting 
+For media inquiries about this repository or project please start by contacting 
 
 Discord: @h4wduk3n#1798
-Twitter: @h4wduk3n 
-Email: h4wduk3n@yahoo.com 
+
+Twitter: @h4wduk3n
+
+Email: h4wduk3n@yahoo.com
 
 You will be reminded to but be sure to use the contributor list in this Readme in your article or media.
 
-We strive to acknowledge all those contribuitng assets and knowledge to this project.*
+*We strive to acknowledge all those contribuitng assets and knowledge to this project.*
 
 ### Wiki Help
 
