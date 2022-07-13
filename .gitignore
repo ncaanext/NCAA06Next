@@ -20,3 +20,6 @@ Thumbs.db
 # Ignore tags created by etags and ctags
 TAGS
 tags
+
+# Ignore Dumps folder
+textures/SLUS-21214/dumps
