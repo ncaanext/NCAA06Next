@@ -40,6 +40,12 @@ Hooray!
 
 Patch Update Notes:
 
+New for V10
+Added Names Database to file
+Added Player Model adjustments to all recruits
+Updated Conference/US States alignment
+Patches for number placement to remove jersey decals completely. Bowl games still show up however.
+
 New for V9
 Fixes for Conf USA, Sun Belt and Independent FBS schools that are in NCAA 06
 
