@@ -42,9 +42,6 @@ https://github.com/h4wduk3n/NCAA06Next/wiki
 
 Uniform Updates (based on CURRENT DAY conferences)
 
-![NEXT-V9-Poster](https://user-images.githubusercontent.com/24241868/176588761-bc76cba9-62d6-4090-ad16-4b00739b1810.png)
-
-
 
 ## Uniform Patch
 
@@ -87,16 +84,9 @@ FBS Rosters were created using <a href=https://github.com/antdroidx/NCAA-Footbal
 
 Allows users to patch the Game Image to play Road to Heisman mode with 2021 rosters!
 
-### Conference Realignment Mod:
+### In-Game Text, Uniforms, Names nad more Patch:
 
-This mod now includes a base starting Dynasty Save to use as a 2021 starter file using a completely realigned conferences, updated rosters, coaches, strategies, start year and more! It also has the ability to auto-generate new schedules each year without manual manipulation! Please see the Dynasty Mod folder more details.
-
-If you want to create your own version, please see the following section for more info.
-
-### In-Game Text Patch:
-
-This mod patches certain game dialogues such as NCAA Football NEXT and the Pontiac Drive Summary text to All-State Drive Recap to go with the Texture update for sponsorships.
-
+This patches various parts of the game including in-game text, uniform number placement, names generation database, recruit model updates, and a lot more!
 
 
 ### For more support, please ask on Discord!
@@ -123,7 +113,9 @@ jdhalfrack
 
 xflamesxofxhopex
 
+jd637
 
+dhs22p
 
 Twitter account and social media managed by
 

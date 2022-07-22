@@ -1,0 +1,25 @@
+# OSX
+._*
+.AppleDouble
+.DS_Store
+.localized
+.LSOverride
+.Spotlight-V100
+.Trashes
+Icon
+
+# Windows
+Desktop.ini
+ehthumbs.db
+Thumbs.db
+
+# Linux
+*~
+
+# Tags
+# Ignore tags created by etags and ctags
+TAGS
+tags
+
+# Ignore Dumps folder
+textures/SLUS-21214/dumps
