@@ -19,7 +19,7 @@ https://discord.gg/55EMdS5ewx
 
 ### Media inquiries
 
-First ask on your discord channel, a team member can help you and this keeps communication transparent.
+First ask on our discord channel, a team member can help you and this keeps communication transparent.
 
 We will all ask you use the members list below in your work and refer to us as the NCAA 06 Next team.
 
