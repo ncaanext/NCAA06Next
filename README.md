@@ -1,7 +1,6 @@
 # NCAA 06 Next!
 ## 2022 Updates to NCAA Football 2006 for PCSX2 & AetherSX2
 
-https://www.ncaanext.com
 ![image](https://user-images.githubusercontent.com/19662073/173284638-6e6f6d13-1b71-4c03-8b89-fd78be80efdd.png)
 
 
@@ -34,6 +33,9 @@ Email: h4wduk3n@yahoo.com
 You will be reminded to but be sure to use the contributor list in this Readme in your article or media.
 
 *We strive to acknowledge all those contributing assets and knowledge to this project.*
+
+### Website
+https://www.ncaanext.com
 
 ### Wiki Help
 
