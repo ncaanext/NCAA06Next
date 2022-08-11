@@ -1,13 +1,12 @@
 # NCAA 06 Next!
 ## 2022 Updates to NCAA Football 2006 for PCSX2 & AetherSX2
 
-https://www.ncaanext.com
 ![image](https://user-images.githubusercontent.com/19662073/173284638-6e6f6d13-1b71-4c03-8b89-fd78be80efdd.png)
 
-
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 ### Latest Release
 
-https://github.com/h4wduk3n/NCAA06Next/releases/tag/V10
+https://github.com/h4wduk3n/NCAA06Next/releases/tag/v10.1
 
 If you run into problems first check the wiki on github, then the issues list. You can then try to get help on discord or file an issue on github.
 
@@ -19,7 +18,11 @@ https://discord.gg/55EMdS5ewx
 
 ### Media inquiries
 
-For media inquiries about this repository or project please start by contacting 
+First ask on our discord channel, a team member can help you and this keeps communication transparent.
+
+We will all ask you use the members list below in your work and refer to us as the NCAA 06 Next team.
+
+For the same answers but from a specific person start by contacting 
 
 Discord: @h4wduk3n#1798
 
@@ -30,6 +33,9 @@ Email: h4wduk3n@yahoo.com
 You will be reminded to but be sure to use the contributor list in this Readme in your article or media.
 
 *We strive to acknowledge all those contributing assets and knowledge to this project.*
+
+### Website
+https://www.ncaanext.com
 
 ### Wiki Help
 
@@ -120,5 +126,5 @@ dhs22p
 Twitter account and social media managed by
 
 ShawnCustoms
-
+Twitter.com/@NCAA06Next
 
