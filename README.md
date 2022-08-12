@@ -7,7 +7,7 @@ https://www.ncaanext.com
 
 ### Latest Release
 
-https://github.com/h4wduk3n/NCAA06Next/releases/tag/V10
+https://github.com/h4wduk3n/NCAA06Next/releases/
 
 If you run into problems first check the wiki on github, then the issues list. You can then try to get help on discord or file an issue on github.
 
@@ -36,34 +36,49 @@ You will be reminded to but be sure to use the contributor list in this Readme i
 Latest help info is found here:
 https://github.com/h4wduk3n/NCAA06Next/wiki
 
-## What's Included:
+# Full Mod Features
 
-### Uniform Updates
+Base Game Updates:
+* All FBS & FCS Team Uniforms Updated including in-game alternates
+* Hundreds of Additional Alternates available for manual replacement
+* Update Game Menus, Logos, Screens, etc.
+* Game Controller Button sets for Xbox, Playstation, Nintendo schemes
+* Updated Broadcast Graphics
+* Updated Textures for Race for Heisman and other modes!
 
-Uniform Updates (based on CURRENT DAY conferences)
+Base Game Patches:
+* Uniform Number Patches
+* Fixed Recruiting Player Models and Attributes
+* Modernized Recruit Name Generation
+* 2021 Rosters Built-In
+
+NCAA 06 Next Modern V3 BETA Features:
+* Complete modernization of NCAA 06 using the Texture Pack from base game + more!
+* Updated Conferences and Alignments
+* Completely Remade In-Game Scheduling Templates
+* Built-In 2021 Rosters
+* NEW Teams: Charlotte, Coastal Carolina, Georgia State, Liberty, Old Dominion, South Alabama, UTSA
+* New Stadiums for various teams
+* Updated Coaching Staff, Strategies, Tendencies, etc.
+* Team Rankings, Prestige, Heisman, and Magazine Cover Athlete Updates
+* Updated Positional Importance
+* In-Game Text Updates
+* Uniform Number Patches
+* Fixed Recruiting Player Models and Attributes
+* Modernized Recruit Name Generation
+
+## Known Bugs:
+
+Since this is a beta and we've only done limited testing, bugs may occur! Please let us know when you get them!
+
+There is one known bug, which seems to be a memory related issue, and for majority of users, this will never be a problem. If you simulate a string of weeks or a full season, PLEASE exit the schedule page, and to the main Dynasty menu, before you simulate more games! If you do not, it may cause an error to occur and the entire emulator will need to be rebooted and all progress lost.
+
+This seems to be possibly due to overload of memory/resources, but we are still troubleshooting the root cause. In the mean time, just read the news and standings every time you simulate, and you should be fine.
+
+Make memory card saves and save states often. :)
 
 
-## Uniform Patch
-
-Patch fixes the Disc Image with uniform number location changes!
-
-## Other Art Updates
-
-Stadium/Field updates
-
-Logos and Banners
-
-Championship Logos
-
-Menu Artwork Skins
-
-Player Skins
-
-Controller Layout Art
-
-MUCH MORE!
-
-### NCAA NEXT '21 Modernization Beta
+### NCAA NEXT '21 Modernization Beta Help Page
 
 https://github.com/h4wduk3n/NCAA06Next/wiki/3.-Installation-of-the-NCAA-06-NEXT-Modern-'21-%5BISO-PATCH%5D
 
@@ -80,45 +95,27 @@ Memory Card Includes:
 
 FBS Rosters were created using <a href=https://github.com/antdroidx/NCAA-Football-PS3-to-PS2-Roster-Porting-Tool>Antdroid's Roster Porting Tool</a> from the Operation Sports NCAA 14 PS3 team's base roster with permission.
 
-### Road to Heisman 2021 Roster Patch
-
-Allows users to patch the Game Image to play Road to Heisman mode with 2021 rosters!
-
-### In-Game Text, Uniforms, Names nad more Patch:
-
-This patches various parts of the game including in-game text, uniform number placement, names generation database, recruit model updates, and a lot more!
-
-
 ### For more support, please ask on Discord!
+
+
 
 ### Team members:
 
 Development Team:
 
-Ok and!? (Discord server admin)
-
-H4wduk3n
-
-Antdroid
-
-BuBeavers92
-
-RobotDebris
-
-4Star
-
-jackson
-
-jdhalfrack
-
-xflamesxofxhopex
-
-jd637
-
-dhs22p
+* Ok and!? (Discord server admin)
+* H4wduk3n
+* Antdroid
+* BuBeavers92
+* RobotDebris
+* 4Star
+* jackson
+* jdhalfrack
+* xflamesxofxhopex
+* jd637
+* dhs22p
 
 Twitter account and social media managed by
-
-ShawnCustoms
+* ShawnCustoms
 
 
