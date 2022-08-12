@@ -21,11 +21,9 @@ https://discord.gg/55EMdS5ewx
 
 For media inquiries about this repository or project please start by contacting 
 
-Discord: @h4wduk3n#1798
-
-Twitter: @h4wduk3n
-
-Email: h4wduk3n@yahoo.com
+* Discord: @h4wduk3n#1798
+* Twitter: @h4wduk3n
+* Email: h4wduk3n@yahoo.com
 
 You will be reminded to but be sure to use the contributor list in this Readme in your article or media.
 
