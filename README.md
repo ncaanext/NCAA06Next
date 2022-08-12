@@ -36,6 +36,9 @@ https://github.com/h4wduk3n/NCAA06Next/wiki
 
 # Full Mod Features
 
+Note: This mod assumes you have a legitimate copy of NCAA Football 06 for PS2, dumped into an ISO format and played with PCSX2 v1.7+ and a legitimate PS2 BIOS dump.
+
+
 Base Game Updates:
 * All FBS & FCS Team Uniforms Updated including in-game alternates
 * Hundreds of Additional Alternates available for manual replacement
