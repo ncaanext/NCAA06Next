@@ -2,7 +2,8 @@
 ## 2022 Updates to NCAA Football 2006 for PCSX2 & AetherSX2
 
 https://www.ncaanext.com
-![image](https://user-images.githubusercontent.com/19662073/173284638-6e6f6d13-1b71-4c03-8b89-fd78be80efdd.png)
+
+![image](https://user-images.githubusercontent.com/19662073/184521412-9970fe10-f8ee-4a5b-a3fa-878ac9ddb40f.png)
 
 
 ### Latest Release
