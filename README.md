@@ -1,12 +1,10 @@
-# NCAA 06 Next!
-## 2022 Updates to NCAA Football 2006 for PCSX2 & AetherSX2
-
+# NCAA 06 Next
+![image](https://user-images.githubusercontent.com/19662073/184521412-9970fe10-f8ee-4a5b-a3fa-878ac9ddb40f.png)
 https://www.ncaanext.com
 
-![image](https://user-images.githubusercontent.com/19662073/184521412-9970fe10-f8ee-4a5b-a3fa-878ac9ddb40f.png)
+2022 Updates to NCAA Football 2006 for PCSX2 & AetherSX2
 
-
-### Latest Release
+### Latest Releases
 
 https://github.com/h4wduk3n/NCAA06Next/releases/
 
