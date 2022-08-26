@@ -12,8 +12,17 @@ This is a collection of separate patches that can possibly be combined to change
 
 You can combine and install these patches at the same time as long as they are compatible. As such, you can, and should, create separate iso files for each mod version you want! :)
 
+v11 Updates:
+REMOVED 2021 Rosters patch -- If you want 2021, please transition to our Modern 2021 Game Mod.
+More uniform number patches (52 teams updated!)
+Removed 7" recruits
+
+
 v10 Updates:
-Update to Game Patch (formerly Uniform Patch)
+Update to Game Patch with:
+new recruit names
+player model updates
+conference/state alignment updates
 
 
 V9 Updates:
@@ -29,9 +38,6 @@ Pre-Configured Combos:
 
 
 Indvidiual Patch and Info:
-
-2021-Road-to-Heisman:
-This patches the game to include 2021 season rosters for all teams and includes historic named rosters. This allows the game to also work with Road-to-Heisman mode with 21 rosters correctly. This is NOT compatible with the Dynasty Mod. That mod already has these features built-in but is exclusively designed for the Dynasty Save starter file. 
 
 Game Patch:
 This patch includes updates to the number and helmet number/letter design locations that can not be updated by textures only. This updates the locations for the modern uniforms. This also updates Names database for new recruits, Conference to State alignment data, and Recruit Attributes for Player Model sizing. This should be compatible with all other patches.
