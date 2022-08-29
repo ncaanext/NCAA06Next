@@ -1,6 +1,7 @@
 # NCAA Football 06 Next
 
-![image](https://user-images.githubusercontent.com/19662073/187036246-5de1accb-888b-478f-a9b5-47960374134c.png)
+![image](https://user-images.githubusercontent.com/1260184/187178705-c611a3b1-4ed4-44d3-ab89-47e9555d2c48.jpg)
+
 
 https://www.ncaanext.com
 
