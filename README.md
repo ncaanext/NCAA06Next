@@ -1,5 +1,7 @@
-# NCAA 06 Next
-![image](https://user-images.githubusercontent.com/19662073/184521412-9970fe10-f8ee-4a5b-a3fa-878ac9ddb40f.png)
+# NCAA Football 06 Next
+
+![COVER-NCAANEXT-V11-r2](https://user-images.githubusercontent.com/1260184/187182282-1f7e1969-af06-4544-92fc-b7020b08699f.jpg)
+
 https://www.ncaanext.com
 
 2022 Updates to NCAA Football 2006 for PCSX2 & AetherSX2
