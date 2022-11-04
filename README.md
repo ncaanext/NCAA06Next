@@ -1,6 +1,6 @@
 # NCAA Football 06 Next
 
-![COVER-NCAANEXT-V11-r2](https://user-images.githubusercontent.com/1260184/187182282-1f7e1969-af06-4544-92fc-b7020b08699f.jpg)
+![NCAA-06-COVER-V12-Hendon_Hooker](https://user-images.githubusercontent.com/1260184/199928799-50699701-c430-496d-9de5-61025819505f.jpg)
 
 https://www.ncaanext.com
 
