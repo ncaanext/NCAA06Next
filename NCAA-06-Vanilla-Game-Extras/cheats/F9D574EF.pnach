@@ -1,0 +1,6 @@
+gametitle=NCAA Football 06 (U)(SLUS-21214)
+//no interlacing and auto WS by someother1ne
+patch=1,EE,005e5adc,word,00000000
+patch=1,EE,005e5b64,word,00000000
+patch=1,EE,005F6D70,word,24020002 //auto widescreen
+
