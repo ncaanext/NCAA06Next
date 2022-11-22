@@ -8,7 +8,7 @@ https://www.ncaanext.com
 
 ### Latest Releases
 
-https://github.com/h4wduk3n/NCAA06Next/releases/
+https://download.ncaanext.com
 
 If you run into problems first check the wiki on github, then the issues list. You can then try to get help on discord or file an issue on github.
 
@@ -16,7 +16,7 @@ If you run into problems first check the wiki on github, then the issues list. Y
 
 Find our discord server here:
 
-https://discord.gg/55EMdS5ewx
+https://discord.ncaanext.com
 
 ### Media inquiries
 
@@ -32,92 +32,99 @@ You will be reminded to but be sure to use the contributor list in this Readme i
 
 ### Wiki Help
 
-Latest help info is found here:
-https://github.com/h4wduk3n/NCAA06Next/wiki
+Latest help info, including help videos, are found here:
+https://wiki.ncaanext.com
 
 # Full Mod Features
 
 **Note:** This mod assumes you have a legitimate copy of NCAA Football 06 for PS2, dumped into an ISO format and played with PCSX2 v1.7+ and a legitimate PS2 BIOS dump.
 
 
-Base Game Updates:
-* All FBS & FCS Team Uniforms Updated including in-game alternates
-* Hundreds of Additional Alternates available for manual replacement
-* Update Game Menus, Logos, Screens, etc.
-* Game Controller Button sets for Xbox, Playstation, Nintendo schemes
-* Updated Broadcast Graphics
-* Updated Textures for Race for Heisman and other modes!
+The NCAA NEXT 23 Mod is a fully integrated modification of NCAA Football 06 for the 2022 season with a ton of new features to the original game and previous modification releases. This package is a combination of our team's texture package of over 10,000 new graphics textures and modifications to the entire game's code, database structure, and strings to enhance gameplay, dynasty mod, and visual quality, and much, much more! 
 
-Base Game Patches:
-* Uniform Number Patches
-* Fixed Recruiting Player Models and Attributes
-* Modernized Recruit Name Generation
-* 2021 Rosters Built-In
-
-NCAA 06 Next Modern V3 BETA Features:
-* Complete modernization of NCAA 06 using the Texture Pack from base game + more!
-* Updated Conferences and Alignments
-* Completely Remade In-Game Scheduling Templates
-* Built-In 2021 Rosters
-* NEW Teams: Charlotte, Coastal Carolina, Georgia State, Liberty, Old Dominion, South Alabama, UTSA
-* New Stadiums for various teams
-* Updated Coaching Staff, Strategies, Tendencies, etc.
-* Team Rankings, Prestige, Heisman, and Magazine Cover Athlete Updates
-* Updated Positional Importance
-* In-Game Text Updates
-* Uniform Number Patches
-* Fixed Recruiting Player Models and Attributes
-* Modernized Recruit Name Generation
-
-## Known Bugs:
-
-Since this is a beta and we've only done limited testing, bugs may occur! Please let us know when you get them!
-
-There is one known bug, which seems to be a memory related issue, and for majority of users, this will never be a problem. If you simulate a string of weeks or a full season, PLEASE exit the schedule page, and to the main Dynasty menu, before you simulate more games! If you do not, it may cause an error to occur and the entire emulator will need to be rebooted and all progress lost.
-
-This seems to be possibly due to overload of memory/resources, but we are still troubleshooting the root cause. In the mean time, just read the news and standings every time you simulate, and you should be fine.
-
-Make memory card saves and save states often. :)
+Features include:
 
 
-### NCAA NEXT '21 Modernization Beta Help Page
+**Game PS2 Executable (ELF) Updates:**
+- De-Interlacing Built-In to improve visual quality
+- 2022 Starting Year
+- In-Game Text Updates
+- Transfer Waiting Period Removal
+- Increased Transfer Portal Activity and Expanded Capabilities
+- Allows Duplicate Jersey Numbers
+- Permanent PAC-12/CUSA Championship Stadium
+- Added 1 and 2 Star Recruits to In-Season Recruiting Phase
+- BCS Ranking Algorithm Fixes for Additional Teams
+- Updated Player Number Generation Choices to match NCAA Rules
+- Added ability to have "0" player number
+- Unlocked 2 additional hidden Championship Games (must be user modified)
+- Added CPU Coach Stat Tracking
 
-https://github.com/h4wduk3n/NCAA06Next/wiki/3.-Installation-of-the-NCAA-06-NEXT-Modern-'21-%5BISO-PATCH%5D
+**Internal League Database Updates:**
+- League Structure Overhaul
+- 7 New Teams Include Stadiums and Graphics Assets
+- Updated Rosters and Coaches, including FCS coaches
+- Updated Team Strategies
+- B1G and PAC-12 Championship Games
+- Updated Bowl Game Sites and Names
+- Outdoor Stadiums for teams that used to play in domes
+- Re-Written Scheduling Logic for league structure
+- Updated OOC Rivalries Scheduling + New In-Game Rivalries Added
+- Updated Recruit 3D Model Body Shapes & Realistic Accessory Choices
+- Removed "mini" recruits
+- Removed Stadium Cannon Celebrations
+- Added Oregon Duck Mascot
 
+**Other In-Game Updates:**
+- Re-Added Historical Teams and unlocked hidden teams and allow mascot teams to play human teams
+- Modern Database of 8192 First and 8192 Last names for recruits
+- Upgraded Music Soundtrack (16 original + 16 new tracks)
+- Re-wrote entire magazine headline and captions database (3500+ lines)
+- New player-to-coach dialogs including NFL, NIL, Transfer Portal and more
+- Sponsorship text updates
+- Uniform Numbers and Decals Fixes
+- Heisman Candidates
+- Added nameplates to uniforms that were missing this
+- New teams now have integrated texture package for less confusion through redoing game's texture MMAP and DAT files to create alternate textures for mod users, while maintaining textures for original game users.
 
+In addition, we have a huge, huge graphics texture pack with over 10,000 texture files that include over 1000 uniforms, updates to a ton of stadiums, fields, accessories, gears, helmets, broadcasts, menu art, and more.
 
-### Roster updates:
+**New Texture Updates for this package from V11 include:**
+- Several new 2022 uniform updates and alternates for a number of teams (Oregon, Louisville, Air Force, Navy, Tulane, Kentucky, to name a few)
+- Updated several teams stadiums and end zone art
+- Updated Team Logos 
+- Fixes to old uniforms and logos
+- Prepared rosters and recruits for custom gear accessories capability using team made templates available on discord soon! 
+- Much more!
 
-For rosters, you may get a .ps2 memory card file for pcsx2 courtesy of operation sports here:
+### **Team Credits:**
 
-Memory Card Includes:
-1. 2021 Season Div 1A Rosters 
-2. 2021 Season Div 1AA Rosters for FBS Schools only (Appalachian State, Texas State, UMass, and Western Kentucky). The rest are auto-named default rosters.
-3. Historical Teams Rosters
+**Textures (Uniforms & Misc Graphics)**
+BUBeavers92
+Ok and!?
+H4wduk3n
+Antdroid
+RobotDebris
+4Star
+jackson
+jdhalfrack
+xflamesxofxhopex
+jd637
+dhs22p
+BaltimoreRavens
+Talon42
 
-FBS Rosters were created using <a href=https://github.com/antdroidx/NCAA-Football-PS3-to-PS2-Roster-Porting-Tool>Antdroid's Roster Porting Tool</a> from the Operation Sports NCAA 14 PS3 team's base roster with permission.
+**NEXT 23 Game Patches/Mods/Enhancements**
+Antdroid
+JDHalfrack
+JD637
 
-### For more support, please ask on Discord!
+**Texture Templates**
+JD637
+xflamesxofxhopex
+h4wduk3n
 
-
-
-### Team members:
-
-Development Team:
-
-* Ok and!? (Discord server admin)
-* H4wduk3n
-* Antdroid
-* BuBeavers92
-* RobotDebris
-* 4Star
-* jackson
-* jdhalfrack
-* xflamesxofxhopex
-* jd637
-* dhs22p
-
-Twitter account and social media managed by
-* ShawnCustoms
-
-
+**Other Credits:**
+Vikesfan059 & Team : Roster Base
+Stingray, elguapo, jdhalfrack, packfan : modding tools/apps
+Harry97/Brock/Reeshmd23/lorak/etc : DB Edits Knowledge Exchange over the years
