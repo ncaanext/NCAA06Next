@@ -100,31 +100,31 @@ In addition, we have a huge, huge graphics texture pack with over 10,000 texture
 ### **Team Credits:**
 
 **Textures (Uniforms & Misc Graphics)**
-BUBeavers92
-Ok and!?
-H4wduk3n
-Antdroid
-RobotDebris
-4Star
-jackson
-jdhalfrack
-xflamesxofxhopex
-jd637
-dhs22p
-BaltimoreRavens
-Talon42
+* BUBeavers92
+* Ok and!?
+* H4wduk3n
+* Antdroid
+* RobotDebris
+* 4Star
+* jackson
+* jdhalfrack
+* xflamesxofxhopex
+* jd637
+* dhs22p
+* BaltimoreRavens
+* Talon42
 
 **NEXT 23 Game Patches/Mods/Enhancements**
-Antdroid
-JDHalfrack
-JD637
+* Antdroid
+* JDHalfrack
+* JD637
 
 **Texture Templates**
-JD637
-xflamesxofxhopex
-h4wduk3n
+* JD637
+* xflamesxofxhopex
+* h4wduk3n
 
 **Other Credits:**
-Vikesfan059 & Team : Roster Base
-Stingray, elguapo, jdhalfrack, packfan : modding tools/apps
-Harry97/Brock/Reeshmd23/lorak/etc : DB Edits Knowledge Exchange over the years
+* Vikesfan059 & Team : Roster Base
+* Stingray, elguapo, jdhalfrack, packfan : modding tools/apps
+* Harry97/Brock/Reeshmd23/lorak/etc : DB Edits Knowledge Exchange over the years
