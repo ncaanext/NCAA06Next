@@ -1,6 +1,6 @@
-# NCAA Football 06 Next
+# NCAA 06 Football Next 23
 
-![COVER-NCAANEXT-V11-r2](https://user-images.githubusercontent.com/1260184/187182282-1f7e1969-af06-4544-92fc-b7020b08699f.jpg)
+![199928799-50699701-c430-496d-9de5-61025819505f](https://user-images.githubusercontent.com/24241868/204071604-be14ede1-4f08-4c88-8b54-70832607fb9c.jpg)
 
 https://www.ncaanext.com
 
@@ -59,6 +59,8 @@ Features include:
 - Added ability to have "0" player number
 - Unlocked 2 additional hidden Championship Games (must be user modified)
 - Added CPU Coach Stat Tracking
+- 40 Second Playclock Update
+- 25 Yard Line Touchback Placement Update 
 
 **Internal League Database Updates:**
 - League Structure Overhaul
