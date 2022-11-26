@@ -1,16 +1,23 @@
-NCAA 06 Football Patches by Antdroid
-
-NOTE: THESE ARE NOW OBSOLETED BY THE FULL_ISO_MODS by Antdroid & JDHalfrack.
-
-Please see those files for more info!
-
+NCAA 06 Football Patches by Antdroid, JDHalfrack, and JD637
 
 ---
 
 
 This is a collection of separate patches that can possibly be combined to change different aspects of the base game disc.
 
-You can combine and install these patches at the same time as long as they are compatible. As such, you can, and should, create separate iso files for each mod version you want! :)
+v12 Updates:
+New Magazine/Headline/Dialog Captions
+Touchbacks are placed at 25 yard line
+40 Second Playclock
+De-Interlacing Built-In to improve visual quality
+Recruiting Database Updates
+In-Game Text Updates
+Transfer Waiting Period Removal
+Increased Transfer Portal Activity
+Allows Duplicate Jersey Numbers
+Permanent CUSA Championship Stadium
+Added 1 and 2 Star Recruits to In-Season Recruiting Phase
+2022 Start Year
 
 v11 Updates:
 REMOVED 2021 Rosters patch -- If you want 2021, please transition to our Modern 2021 Game Mod.
@@ -30,20 +37,6 @@ Updates to Dynasty Schedule Patch
 
 V8 Updates:
 Dynasty Textures are now in Dynasty and should be moved to Replacements if used!
-
-
-Pre-Configured Combos:
-
-1-General-Combo-Patch: This pack combines the Heisman, Text Patch and Uniform patch into a single folder so you can quickly make an ISO for general usage. This allows you to start new dynasties and other features without errors.
-
-
-Indvidiual Patch and Info:
-
-Game Patch:
-This patch includes updates to the number and helmet number/letter design locations that can not be updated by textures only. This updates the locations for the modern uniforms. This also updates Names database for new recruits, Conference to State alignment data, and Recruit Attributes for Player Model sizing. This should be compatible with all other patches.
-
-Text Patch
-This patch updates NCAA Football 06 to NCAA Football NEXT in the pre-game screen. the Pontiac Drive Summary text to say All-State Drive Recap to go with the All-State sponsorship update. They are the official sponsor of NCAA Field Goals. This patch will work with all combinations of patches.
 
 
 
