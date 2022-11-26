@@ -61,6 +61,8 @@ Features include:
 - Added ability to have "0" player number
 - Unlocked 2 additional hidden Championship Games (must be user modified)
 - Added CPU Coach Stat Tracking
+- 40 Second Playclock Update
+- Touchbacks placed at 25 yard line Update
 
 **Internal League Database Updates:**
 - League Structure Overhaul
