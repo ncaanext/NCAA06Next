@@ -1,0 +1,1 @@
+This is an additional wristband that sits half way up the forearm. You can use it to replace QBWRIST BK, QBWRIST WT, HALFSLEEVE BK, and/or HALFSLEEVE WT by copying the corresponding folder(s) to replacements-->team-->CONFERENCE-->TEAM-->_general.
