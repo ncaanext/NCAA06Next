@@ -25,7 +25,7 @@ For media inquiries about this repository or project please start by contacting
 
 * Discord: @h4wduk3n#1798
 * Twitter: @h4wduk3n
-* Email: h4wduk3n@yahoo.com
+* Email: h4wduk3n@yahoo.com or contact@antdroid.dev
 
 You will be reminded to but be sure to use the contributor list in this Readme in your article or media.
 
@@ -62,6 +62,8 @@ Features include:
 - Added CPU Coach Stat Tracking
 - 40 Second Playclock Update
 - 25 Yard Line Touchback Placement Update 
+- Up to 10 Conference Championship Games including divisionless conferences
+- Recruit Kickers/Punters in-season
 
 **Internal League Database Updates:**
 - League Structure Overhaul
@@ -73,7 +75,7 @@ Features include:
 - Outdoor Stadiums for teams that used to play in domes
 - Re-Written Scheduling Logic for league structure
 - Updated OOC Rivalries Scheduling + New In-Game Rivalries Added
-- Updated Recruit 3D Model Body Shapes & Realistic Accessory Choices
+- Updated Recruit Ratings, 3D Model Body Shapes & Realistic Accessory Choices
 - Removed "mini" recruits
 - Removed Stadium Cannon Celebrations
 - Added Oregon Duck Mascot
@@ -102,32 +104,34 @@ In addition, we have a huge, huge graphics texture pack with over 10,000 texture
 
 ### **Team Credits:**
 
-**Textures (Uniforms & Misc Graphics)**
-* BUBeavers92
+Core Development Team:
 * Ok and!?
 * H4wduk3n
 * Antdroid
+* BuBeavers92
 * RobotDebris
 * 4Star
-* jackson
-* jdhalfrack
+* JDHalfrack
 * xflamesxofxhopex
-* jd637
-* dhs22p
+* JD637
 * BaltimoreRavens
 * Talon42
 
-**NEXT 23 Game Patches/Mods/Enhancements**
-* Antdroid
-* JDHalfrack
-* JD637
+Other Community Credits
+* CookyBots
+* dhs22p
+* jackson
+* kingschmiley
+* C-Dub30
+* cramp!
+* Stingray
+* Rob
+* naikznn
+* AyeeDubzz
+* Weast
+* Harry97
+* Brock
+* Reeshmd23
+* OperationSports and Football Idiot Communities
 
-**Texture Templates**
-* JD637
-* xflamesxofxhopex
-* h4wduk3n
-
-**Other Credits:**
-* Vikesfan059 & Team : Roster Base
-* Stingray, elguapo, jdhalfrack, packfan : modding tools/apps
-* Harry97/Brock/Reeshmd23/lorak/etc : DB Edits Knowledge Exchange over the years
+Twitter account and social media managed by CookyBots
