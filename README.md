@@ -47,6 +47,7 @@ Features include:
 
 
 **Game PS2 Executable (ELF) Updates:**
+- College Football Playoff
 - De-Interlacing Built-In to improve visual quality
 - 2022 Starting Year
 - In-Game Text Updates
@@ -61,9 +62,12 @@ Features include:
 - Unlocked 2 additional hidden Championship Games (must be user modified)
 - Added CPU Coach Stat Tracking
 - 40 Second Playclock Update
+- Running Game Clock per NCAA Rules
 - 25 Yard Line Touchback Placement Update 
+- Accelerated Play Clock Option
 - Up to 10 Conference Championship Games including divisionless conferences
 - Recruit Kickers/Punters in-season
+- Replaceable Goal Line Formation to Any Formation
 
 **Internal League Database Updates:**
 - League Structure Overhaul
