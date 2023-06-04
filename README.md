@@ -64,10 +64,13 @@ Features include:
 - 40 Second Playclock Update
 - Running Game Clock per NCAA Rules
 - 25 Yard Line Touchback Placement Update 
+- Overtime Rules Changes
 - Accelerated Play Clock Option
 - Up to 10 Conference Championship Games including divisionless conferences
 - Recruit Kickers/Punters in-season
 - Replaceable Goal Line Formation to Any Formation
+- User Team Highlight Color Update
+- Impact Player Logic Improvements & More Positions qualify
 
 **Internal League Database Updates:**
 - League Structure Overhaul
@@ -80,6 +83,7 @@ Features include:
 - Re-Written Scheduling Logic for league structure
 - Updated OOC Rivalries Scheduling + New In-Game Rivalries Added
 - Updated Recruit Ratings, 3D Model Body Shapes & Realistic Accessory Choices
+- Overhauled Recruiting Database positions to force CPU depth chart logic improvements
 - Removed "mini" recruits
 - Removed Stadium Cannon Celebrations
 - Added Oregon Duck Mascot
